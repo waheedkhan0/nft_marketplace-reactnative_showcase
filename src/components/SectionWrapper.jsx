@@ -13,7 +13,7 @@ function SectionWrapper({title, description,showBtn, mockupImg,banner,reverse}) 
                 {showBtn && (
                     <Button
                     assetUrl={assets.expo}
-                    link="deployed nft marketplace"
+                    link="https://expo.dev/accounts/waheedkhan0/projects/nft_marketplace_app/updates/2133d720-3a03-49f9-9084-c62c64ce0612"
                     />
                 )}
             </div>
